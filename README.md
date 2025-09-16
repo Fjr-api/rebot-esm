@@ -66,7 +66,8 @@ WhatsApp Connection (BETA, not working perfectly)
 
 
 ## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`@adiwajshing`](https://github.com/adiwajshing)
+* [`@whisketsockets/baileys`](https://github.com/whiskeysockets/baileys)
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
