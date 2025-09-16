@@ -10,6 +10,12 @@ Best Regards. Fjr
 
 # Rebot
 Script WhatsApp Bot Multi Device
+Referensi base old Hisoka-Morou by DikaArdnt
+
+# INFORMATION SCRIPT
+Language: JavaScript ESM
+Type: CASE (Fitur Command)
+Library: Baileys (pre-release)
 
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
