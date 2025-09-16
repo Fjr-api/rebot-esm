@@ -12,9 +12,11 @@ Script WhatsApp Bot Multi Device
 Referensi base old Hisoka-Morou by DikaArdnt
 
 # INFORMATION SCRIPT
+```bash
 Language: JavaScript ESM
 Type: CASE (Fitur Command)
 Library: Baileys (pre-release)
+```
 
 Remember not for Sale. Jika dijual neraka menunggumu brother !
 
