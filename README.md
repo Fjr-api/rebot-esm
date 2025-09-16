@@ -8,7 +8,7 @@ script/base ini tetap akan di update seiring waktu jangan lupa fork and star🍴
 Best Regards. Fjr
 
 # Rebot
-Script WhatsApp Bot Multi Device - Referensi base old Hisoka-Morou by * [`DikaArdnt`](https://github.com/DikaArdnt)
+Script WhatsApp Bot Multi Device - Referensi base old Hisoka-Morou by [`DikaArdnt`](https://github.com/DikaArdnt)
 
 # INFORMATION SCRIPT
 ```bash
