@@ -1,7 +1,6 @@
 # CATATAN ( NOTE )
 Script atau base ini tidak untuk diperjual belikan (100% free). Silahkan bagi yang ingin mengembangkan, menyalin, recode, dll sebagaimana mestinya.
 
-
 Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
 
 script/base ini tetap akan di update seiring waktu jangan lupa fork and star🍴⭐
@@ -17,8 +16,7 @@ Language: JavaScript ESM
 Type: CASE (Fitur Command)
 Library: Baileys (pre-release)
 
-## NOTE
-This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
+Remember not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
 	<img src="https://rebot-studio.my.id/assets/img/3ef3144887d67003aacea%20(2).jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
