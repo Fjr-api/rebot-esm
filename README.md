@@ -5,7 +5,7 @@ Kalo mau jualan normal aja, dan setidaknya kasih fitur-fitur yang sesuai, jangan
 
 kalau ada error atau bugsilahkan isi di issues
 
-Edit Owner di file config.js
+Edit Owner dan no pairing bot di file config.js
 
 script/base ini tetap akan di update seiring waktu jangan lupa fork and star🍴⭐
 
