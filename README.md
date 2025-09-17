@@ -77,6 +77,8 @@ WhatsApp Connection (BETA, not working perfectly)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
 * [`Fatih Arridho`](https://github.com/FatihArridho)
+* [`Yan`](https://github.com/yannngithub)
+* [`Farell`](https://github.com/Xiryuu)
 
 ```Thanks to all who have participated in the development of this script```
 
