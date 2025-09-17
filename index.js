@@ -1,3 +1,9 @@
+/**
+* Create By Fjr.
+* Contact Me on wa.me/6289692509996
+* Follow https://github.com/Fjr-api
+*/
+
 import "./config.js"
 import makeWASocket, { useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, jidDecode } from "@whiskeysocket/baileys";
 import Pino from "pino";
@@ -339,3 +345,4 @@ async function startRebot() {
 }
 
 startRebot();
+
