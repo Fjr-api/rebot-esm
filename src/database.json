@@ -1,11 +1,11 @@
 {
-   users: {},
-    chats: {},
-    database: {},
-    game: {},
-    settings: {},
-    others: {},
-    sticker: {},
-    anonymous: {},
-    anonconfess: {},
+   "users": {},
+    "chats": {},
+    "database": {},
+    "game": {},
+    "settings": {},
+    "others": {},
+    "sticker": {},
+    "anonymous": {},
+    "anonconfess": {}
 }
