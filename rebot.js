@@ -1,3 +1,9 @@
+/**
+* Create By Fjr.
+* Contact Me on wa.me/6289692509996
+* Follow https://github.com/Fjr-api
+*/
+
  import "./config.js";
  import { jidNormalizedUser } from "@whiskeysocket/baileys"
  import util from "util";
@@ -590,3 +596,4 @@ default:
   await rebot.sendMessage(m.chat, { text: util.format(err) }, { quoted: m });
 }
 }
+
