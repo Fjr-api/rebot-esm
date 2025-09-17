@@ -3,6 +3,8 @@ Script atau base ini tidak untuk diperjual belikan (100% free). Silahkan bagi ya
 
 Kalo mau jualan normal aja, dan setidaknya kasih fitur-fitur yang sesuai, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya  dan 1000 fitur work 100%😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain.
 
+kalau ada error atau bugsilahkan isi di issues
+
 Edit Owner di file config.js
 
 script/base ini tetap akan di update seiring waktu jangan lupa fork and star🍴⭐
