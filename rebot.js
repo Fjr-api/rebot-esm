@@ -49,7 +49,7 @@ const creatorIds = [botNumber, ...global.owner]
 })
 .flat();
 const isCreator = creatorIds.includes(m.sender);
-const isModerator = isCreator || (global.db.data.users[m.sender] && global.db.data.users[m.sender].moderator.status === true)
+const isModerator = isCreator || (global.db.data.users[m.sender] && global.db.data.users[m.sender].moderator?.status === true)
 const isPremium = isCreator || (global.db.data.users[m.sender] && global.db.data.users[m.sender].premium && global.db.data.users[m.sender].premium.status === true);
 const isBan = (global.db.data.users[m.sender] && global.db.data.users[m.sender].banned && global.db.data.users[m.sender].banned === true);
 const isBanspam = (global.db.data.users[m.sender] && global.db.data.users[m.sender].banspam && global.db.data.users[m.sender].banspam.status === true);
