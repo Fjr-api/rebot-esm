@@ -1,7 +1,7 @@
 # CATATAN ( NOTE )
 Script atau base ini tidak untuk diperjual belikan (100% free). Silahkan bagi yang ingin mengembangkan, menyalin, recode, dll sebagaimana mestinya.
 
-Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
+Kalo mau jualan normal aja, dan setidaknya kasih fitur-fitur yang sesuai, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
 
 script/base ini tetap akan di update seiring waktu jangan lupa fork and star🍴⭐
 
