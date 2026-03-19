@@ -90,4 +90,4 @@ WhatsApp Connection (BETA, not working perfectly)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me
-* [`QRIS All Payment`](https://rebot-studio.my.id/assets/img/jestDrbl.png)
+* [`QRIS All Payment`](https://rebot-studio.xyz/assets/img/jestDrbl.png)
