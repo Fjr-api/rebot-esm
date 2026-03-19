@@ -24,7 +24,7 @@ Library: Baileys (pre-release)
 Remember not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://rebot-studio.my.id/assets/img/3ef3144887d67003aacea%20(2).jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://rebot-studio.xyz/assets/img/3ef3144887d67003aacea%20(2).jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Rebot</h1>
 
